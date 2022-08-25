@@ -1,0 +1,6 @@
+school/tmp
+old_schoolnew_school
+not_here/tmp/right_school
+ready_to_be_removed
+school_is_amazing
+empty_directory
